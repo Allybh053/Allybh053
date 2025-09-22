@@ -1,45 +1,35 @@
-- 👋 Hi, I’m @Allybh053
+- 👋 Hi, I’m @Ally
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## About Me
 
-Hi there! I'm Ally, a passionate software developer with experience in 
-.NET Core, Laravel, Java , PHP , HTML ,and etc. 
-I enjoy building robust and scalable web applications and have a keen interest in learning new technologies and improving my skill set.
+👋 Hi there! I'm Ally
 
-### My Skills
+I’m a DevOps Engineer & Software Developer passionate about building secure, scalable, and high-availability systems. I have hands-on experience in DevOps, security hardening, large-scale data handling, and web development.One of my biggest achievements was designing a system that processed over one million SMTP data transfers in a single month without lag or downtime. I’ve also implemented replication, disaster recovery (DR), and high availability (HA) solutions, fixed critical security vulnerabilities, and introduced real-time communication with WebSocket.I enjoy solving complex technical problems, automating workflows, and continuously improving systems. I believe in collaboration, evidence-based decision-making, and lifelong learning.
 
-- **Languages**: [Java, Python , JavaScript , PHP , C++ , TypeScript , R , SQL , HTML/CSS (for web development) , Bash/Shell scripting]
-- **Frameworks**: [**Web Development Frameworks**: Laravel (PHP) , .NET Core , Flask , Spring (Java) , Express.js (Node.js) , Angular (JavaScript/TypeScript) , React (JavaScript) , Vue.js (JavaScript) , Next.js (React).
-                                                   Nuxt.js (Vue.js)
-**Mobile Development Frameworks**: React Native (JavaScript) , Flutter (Dart) , Android Studio.
-**Backend Development Frameworks**: Node.js (JavaScript) , Spring Boot (Java) , Express.js (Node.js) , NestJS (TypeScript)
-**Database Frameworks**:  Hibernate (Java) , Sequelize (Node.js) , SQLAlchemy (Python) , Doctrine (PHP)
-**Testing Frameworks**: Mocha (JavaScript) , JUnit (Java) , PHPUnit (PHP)
-**Other Frameworks**:
-TensorFlow (Python) - Machine Learning
-- **Tools**: [**Version Control**: Git , GitHub , GitLab.
-**CI/CD Tools**: GitHub Actions , GitLab CI , CircleCI.
-**Database Management**: MySQL Workbench , pgAdmin (PostgreSQL) , DBeaver
-**IDEs and Code Editors**: Visual Studio Code , IntelliJ IDEA , Visual Studio , Eclipse
-**Cloud Platforms**: AWS , Azure , Google Cloud Platform (GCP).
-- **Databases**: [**Relational Databases**: MySQL , PostgreSQL , SQLite , Microsoft SQL Server , MariaDB.
-**NoSQL Databases**: Redis , DynamoDB (AWS) , Firebase Realtime Database.
+🛠️ Skills
 
-### What I'm Working On
+Languages: Python, Java, PHP, JavaScript/TypeScript, SQL, Bash/Shell, C++, HTML/CSS
+Frameworks & Tools: Laravel, .NET Core, Spring Boot, Flask, React, Docker, Kubernetes, GitHub Actions, GitLab CI
+Databases: MySQL, PostgreSQL, Redis, MS SQL Server
+Cloud & DevOps: AWS, Azure, GCP, CI/CD pipelines, monitoring, security hardening, HA & DR design
 
-- Developing and deploying applications with Laravel and .NET Core.
-- Integrating APIs to enhance functionality and user experience.
-- Exploring new sorting algorithms and their applications in real-world scenarios.
+📌 What I’m Working On
 
-### Contact Me
+Designing scalable DevOps solutions with Docker & Kubernetes
 
-- Email: [allynur2703@gmail.com](mailto:allynur2703@gmail.com)
-- GitHub: (https://github.com/Allybh053)
+Strengthening system security and automation pipelines
+
+Exploring high-performance data processing and monitoring tools
+
+📬 Contact Me
+
+📧 Email: allynur2703@gmail.com
+
+🐙 GitHub: Allybh053
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
 
