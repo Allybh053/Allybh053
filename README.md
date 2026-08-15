@@ -1,35 +1,70 @@
-- 👋 Hi, I’m @Ally
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Mohd Alynur (Ally)
 
-👋 Hi there! I'm Ally
+I'm a **Software Developer & DevOps Engineer** passionate about building secure, scalable, and high-performance applications. I have **4 years of hands-on experience** in full-stack development, DevOps practices, and large-scale data handling.
 
-I’m a DevOps Engineer & Software Developer passionate about building secure, scalable, and high-availability systems. I have hands-on experience in DevOps, security hardening, large-scale data handling, and web development.One of my biggest achievements was designing a system that processed over one million SMTP data transfers in a single month without lag or downtime. I’ve also implemented replication, disaster recovery (DR), and high availability (HA) solutions, fixed critical security vulnerabilities, and introduced real-time communication with WebSocket.I enjoy solving complex technical problems, automating workflows, and continuously improving systems. I believe in collaboration, evidence-based decision-making, and lifelong learning.
+---
 
-🛠️ Skills
+## 🏆 Key Achievement
 
-Languages: Python, Java, PHP, JavaScript/TypeScript, SQL, Bash/Shell, C++, HTML/CSS
-Frameworks & Tools: Laravel, .NET Core, Spring Boot, Flask, React, Docker, Kubernetes, GitHub Actions, GitLab CI
-Databases: MySQL, PostgreSQL, Redis, MS SQL Server
-Cloud & DevOps: AWS, Azure, GCP, CI/CD pipelines, monitoring, security hardening, HA & DR design
+One of my biggest accomplishments was designing a system that processed **over one million SMTP data transfers in a single month** – without lag or downtime. I also implemented:
 
-📌 What I’m Working On
+- ✅ Replication & Disaster Recovery (DRC)
+- ✅ High Availability (HA) solutions
+- ✅ Real-time communication with WebSocket
+- ✅ Critical security vulnerability fixes
+- ✅ System monitoring & alerting
 
-Designing scalable DevOps solutions with Docker & Kubernetes
+I enjoy solving complex technical problems, automating workflows, and continuously improving systems. I believe in collaboration, evidence-based decision-making, and lifelong learning.
 
-Strengthening system security and automation pipelines
+---
 
-Exploring high-performance data processing and monitoring tools
+## 🛠️ Tech Stack
 
-📬 Contact Me
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | PHP (Laravel, Legacy), Node.js, Python, Java |
+| **Frontend** | Nuxt.js, Angular, React, HTML/CSS |
+| **DevOps** | Docker, CI/CD (GitHub Actions, GitLab CI), Monitoring & Alerting, Disaster Recovery (DRC), Log Management |
+| **Databases** | MySQL, PostgreSQL, Redis, MS SQL Server |
+| **Languages** | PHP, JavaScript/TypeScript, Python, Java, SQL, Bash/Shell |
+| **Other** | RESTful API Design, Secure Authentication (JWT/OAuth2), WebSocket |
 
-📧 Email: allynur2703@gmail.com
+---
 
-🐙 GitHub: Allybh053
+## 💼 What I'm Working On
 
-Feel free to reach out if you want to collaborate on a project or just want to connect!
+- 🔹 Designing scalable solutions with Docker & CI/CD pipelines
+- 🔹 Strengthening system security and automation workflows
+- 🔹 Exploring high-performance data processing and monitoring tools
+- 🔹 Building clean, maintainable full-stack applications
 
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **SPMR Mail Relay** | Built a high-volume email relay system handling millions of transactions with DRC failover and real-time monitoring |
+| **CIMS (NACSA)** | National cybersecurity platform with secure JWT/OAuth2 authentication and cloud deployment |
+| **MyInfra (KKR)** | Government infrastructure management system with RESTful APIs for cross-agency data integration |
+| **MPAJ** | Municipal web applications with improved backend logic, validation, and reporting modules |
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** allynur2703@gmail.com
+- 🐙 **GitHub:** [Allybh053](https://github.com/Allybh053)
+- 📱 **WhatsApp:** 0182741948
+
+---
+
+## 🤝 Let's Connect!
+
+I'm currently open for **freelance/contract work** – full-stack development, DevOps automation, or anything in between.
+
+Feel free to reach out if you want to collaborate on a project, need help with your tech stack, or just want to connect!
+
+---
+
+⭐ *"I build, automate, and secure your applications."* 🚀
