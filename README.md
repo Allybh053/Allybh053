@@ -1,70 +1,114 @@
-# 👋 Hi there! I'm Mohd Alynur (Ally)
+# 👋 Hi there, I'm Mohd Alynur (Ally)
 
-I'm a **Software Developer & DevOps Engineer** passionate about building secure, scalable, and high-performance applications. I have **5 years of hands-on experience** in full-stack development, DevSecOps, DevOps practices, and large-scale data handling.
+### Full Stack Engineer | DevOps / SRE | Secure & Scalable Systems
+
+I'm a software engineer with **5 years of hands-on experience** across full-stack development, DevOps, site reliability engineering (SRE), infrastructure automation, and application security.
+
+I enjoy building reliable applications, integrating complex systems, troubleshooting production environments, and automating the processes that keep software running smoothly. My experience spans government and enterprise projects, combining application development with infrastructure operations, deployment, monitoring, and disaster recovery.
+
+My primary focus is **Laravel/PHP development, RESTful APIs, Linux infrastructure, containerization, CI/CD automation, and production reliability**.
 
 ---
 
-## 🏆 Key Achievement
+## 🏆 Highlights & Technical Achievements
 
-One of my biggest accomplishments was designing a system that processed **over one million SMTP data transfers in a single month** – without lag or downtime. I also implemented:
+- 📧 **High-volume mail infrastructure:** Contributed to the SPMR Mail Relay project, involving high-volume SMTP processing, database synchronization, and disaster recovery workflows.
+- 🔄 **High Availability & Disaster Recovery:** Worked with replication, master/slave architectures, recovery environments, and operational continuity.
+- 🔐 **Application Security:** Worked on authentication integrations, security vulnerability remediation, and secure application operations.
+- ⚙️ **DevOps Automation:** Worked with Docker, CI/CD pipelines, deployment workflows, and environment management.
+- 📊 **Monitoring & Troubleshooting:** Used monitoring and logging tools to investigate issues and improve system reliability.
+- 🏛️ **Government & Enterprise Systems:** Contributed to projects involving cybersecurity, public-sector infrastructure, and cross-agency application integrations.
 
-- ✅ Replication & Disaster Recovery (DRC)
-- ✅ High Availability (HA) solutions
-- ✅ Real-time communication with WebSocket
-- ✅ Critical security vulnerability fixes
-- ✅ System monitoring & alerting
-
-I enjoy solving complex technical problems, automating workflows, and continuously improving systems. I believe in collaboration, evidence-based decision-making, and lifelong learning.
+I enjoy solving complex technical problems, improving existing systems, and turning manual processes into repeatable, maintainable workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
-| **Backend** | PHP (Laravel, Legacy), Node.js, Python, Java |
-| **Frontend** | Nuxt.js, Angular, React, HTML/CSS |
-| **DevOps** | Docker, CI/CD (GitHub Actions, GitLab CI), Monitoring & Alerting, Disaster Recovery (DRC), Log Management |
-| **Databases** | MySQL, PostgreSQL, Redis, MS SQL Server |
-| **Languages** | PHP, JavaScript/TypeScript, Python, Java, SQL, Bash/Shell |
-| **Other** | RESTful API Design, Secure Authentication (JWT/OAuth2), WebSocket |
+|---|---|
+| **Backend Development** | PHP, Laravel, Node.js, Python, Java, Spring Boot |
+| **Frontend Development** | Vue.js, Nuxt.js, React, Angular, JavaScript, TypeScript, HTML, CSS |
+| **API & Security** | RESTful APIs, JWT, OAuth 2.0, SSO, RBAC, API integrations |
+| **DevOps & CI/CD** | Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Jenkins |
+| **Cloud & Infrastructure** | AWS EC2, RDS, S3, VPC, Linux, Nginx, Apache |
+| **Databases & Messaging** | MySQL, MariaDB, PostgreSQL, MongoDB, Redis |
+| **Monitoring & Logging** | Netdata, Grafana, Zabbix, Datadog, ELK Stack |
+| **Automation & Scripting** | Bash, Shell scripting, Python, deployment automation |
+| **Reliability & Operations** | High Availability, Disaster Recovery, replication, incident troubleshooting, system monitoring |
 
 ---
 
-## 💼 What I'm Working On
+## 💼 Featured Projects
 
-- 🔹 Designing scalable solutions with Docker & CI/CD pipelines
-- 🔹 Strengthening system security and automation workflows
-- 🔹 Exploring high-performance data processing and monitoring tools
-- 🔹 Building clean, maintainable full-stack applications
+### 1. SPMR Mail Relay — MyGovUC 3.0
+
+Contributed to a mail relay and infrastructure management system designed to support high-volume email processing and operational continuity.
+
+- Worked with Postfix, PostgreSQL, Apache, and Linux.
+- Supported master/slave architecture and database synchronization.
+- Worked with scheduled synchronization, monitoring, and disaster recovery workflows.
+- Gained experience troubleshooting multi-server infrastructure.
+
+### 2. CIMS — Cybercrime Integrated Management System (NACSA)
+
+Worked as a Resident Engineer supporting a government cybersecurity platform involving application maintenance, infrastructure operations, and external system integrations.
+
+- Worked with Laravel and Nuxt.js applications.
+- Supported integrations with government agencies, including PDRM and other public-sector organizations.
+- Worked with authentication integrations, including Centagate and FIDO2.
+- Supported monitoring, security remediation, and disaster recovery infrastructure.
+- Worked in an environment involving multiple servers, firewalls, and network devices.
+
+### 3. MyInfra — Ministry of Works (KKR)
+
+Contributed to infrastructure and application operations for a government infrastructure management platform.
+
+- Supported application environment provisioning and deployment workflows.
+- Worked with Docker, Kubernetes configuration, GitLab CI/CD, and Linux.
+- Supported AWS EC2/RDS environments, database operations, and SSL certificate checks.
+- Worked on a CLI utility for deployment, health checks, monitoring, Git status, database operations, and SSL checks.
+
+### 4. MPAJ & SPA — Full Stack Development
+
+Worked on municipal and public-sector web application development.
+
+- Developed and maintained application features.
+- Worked on backend business logic, validation, and reporting.
+- Gained experience delivering software for public-sector workflows.
 
 ---
 
-## 📂 Featured Projects
+## 🔭 Current Focus
 
-| Project | Description |
-|---------|-------------|
-| **SPMR Mail Relay** | Built a high-volume email relay system handling millions of transactions with DRC failover and real-time monitoring |
-| **CIMS (NACSA)** | National cybersecurity platform with secure JWT/OAuth2 authentication and cloud deployment |
-| **MyInfra (KKR)** | Government infrastructure management system with RESTful APIs for cross-agency data integration |
-| **MPAJ** | Municipal web applications with improved backend logic, validation, and reporting modules |
+- Building maintainable full-stack applications with Laravel and modern JavaScript frameworks.
+- Improving deployment automation and CI/CD workflows.
+- Strengthening application security and infrastructure reliability.
+- Deepening my knowledge of container orchestration, cloud infrastructure, and observability.
+- Exploring opportunities to deliver practical software solutions for businesses through freelance and contract work.
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 **Email:** allynur2703@gmail.com
-- 🐙 **GitHub:** [Allybh053](https://github.com/Allybh053)
-- 📱 **WhatsApp:** 0182741948
+- 📧 **Email:** [allynur2703@gmail.com](mailto:allynur2703@gmail.com)
+- 🐙 **GitHub:** [@Allybh053](https://github.com/Allybh053)
+- 📱 **WhatsApp:** [0182741948](https://wa.me/60182741948)
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Build Something Useful
 
-I'm currently open for **freelance/contract work** – full-stack development, DevOps automation, or anything in between.
+I'm open to **full-stack development opportunities, freelance projects, and contract work**, particularly in:
 
-Feel free to reach out if you want to collaborate on a project, need help with your tech stack, or just want to connect!
+- Custom web application development
+- Laravel backend and REST API development
+- System integrations and workflow automation
+- DevOps, CI/CD, and deployment improvements
+- Application maintenance and infrastructure troubleshooting
+
+If you're building a product, improving an existing system, or looking for someone who understands both software development and the infrastructure behind it, let's connect.
 
 ---
 
-⭐ *"I build, automate, and secure your applications."* 🚀
+⭐ *Building applications. Automating workflows. Improving reliability.* 🚀
